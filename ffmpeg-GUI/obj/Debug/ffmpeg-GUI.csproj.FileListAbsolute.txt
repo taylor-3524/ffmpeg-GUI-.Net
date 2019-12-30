@@ -1,0 +1,12 @@
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\bin\Debug\ffmpeg-GUI.exe.config
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\bin\Debug\ffmpeg-GUI.exe
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\bin\Debug\ffmpeg-GUI.pdb
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\bin\Debug\byn\ffmpeg-GUI.resources.dll
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg-GUI.csprojResolveAssemblyReference.cache
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg_GUI.Form1.resources
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg_GUI.Properties.Resources.resources
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg_GUI.Form1.byn.resources
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg-GUI.csproj.GenerateResource.Cache
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\byn\ffmpeg-GUI.resources.dll
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg-GUI.exe
+d:\file\visual studio 2015\Projects\ffmpeg-GUI\ffmpeg-GUI\obj\Debug\ffmpeg-GUI.pdb
